@@ -1,6 +1,6 @@
 ## Hey, Devs!! :wave:
 <br>
-Meu nome é Bruno Milan Martini, formado em Engenharia Civil e apaixonado por tecnologia.
+Meu nome é Bruno, formado em Engenharia Civil e apaixonado por tecnologia desde sempre.
 <br>
 No momento trabalho como Software Engineer Java [Authorization] na Dock.
 
